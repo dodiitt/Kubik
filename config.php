@@ -8,4 +8,4 @@ $uuid = "8579c13a3f424336b399547d77161ad3";
 $userid = "3310566";
 $sign = "ddd013bd33ac1f41f89bed31f673e772";
 
-include(readline("masukan config: "));
+#include(readline("masukan config: "));
